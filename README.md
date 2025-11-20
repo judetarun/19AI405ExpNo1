@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: Saravanan N</h3>
-<h3>Register Number/Staff Id: TSML006</h3>
+<h3>Name: judetarun</h3>h3>
+<h3>Register Number: 212224040144</h3>
 
 
 <h3>AIM:</h3>
